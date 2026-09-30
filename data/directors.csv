@@ -1,0 +1,67 @@
+exchange,ticker,company,cohort,director,independent,level,evidence_grade,sources
+ASX,TLS,Telstra,ASX300,Craig Dunn,Y,1,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Vicki Brady,N,2,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Eelco Blok,Y,4,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Maxine Brenner,Y,1,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Roy Chestnutt,Y,2,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Holly Kramer,Y,2,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,David Lamont,Y,1,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Ming Long AM,Y,1,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TLS,Telstra,ASX300,Bridget Loudon,Y,2,V,TLS AR2026 pp34-37; TLS CGS2026
+ASX,TPG,TPG Telecom,ASX300,Canning Fok,N,2,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Iñaki Berroeta,N,4,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25; Business Today Malta 2007
+ASX,TPG,TPG Telecom,ASX300,Nerida Caesar,Y,2,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Paula Dwyer,Y,1,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Pierre Klotz,N,2,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Antony Moffatt,N,2,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Dr Helen Nugent AC,Y,3,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,John Otty,N,4,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Frank Sixt,N,2,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,TPG,TPG Telecom,ASX300,Jack Teoh,N,1,V,TPG AR2025; ASX board changes 2026; TPG CGS FY25
+ASX,ABB,Aussie Broadband,ASX300,Adrian Fitzpatrick,Y,1,V,ABB AR2026; CGS FY26; ASX 2026; NoM 2026
+ASX,ABB,Aussie Broadband,ASX300,Sue Klose,Y,1,V,ABB AR2026; CGS FY26; ASX 2026; NoM 2026
+ASX,ABB,Aussie Broadband,ASX300,Sarah Adam-Gedge,Y,2,V,ABB AR2026; CGS FY26; ASX 2026; NoM 2026
+ASX,ABB,Aussie Broadband,ASX300,Michael Omeros,N,4,V,ABB AR2026; CGS FY26; ASX 2026; NoM 2026
+ASX,ABB,Aussie Broadband,ASX300,Jean-Baptiste Rousselot,Y,4,V,ABB AR2026; CGS FY26; ASX 2026; NoM 2026
+ASX,SLC,Superloop,ASX300,Peter O'Connell,Y,2,V,SLC AR2025; CGS 2025
+ASX,SLC,Superloop,ASX300,Paul Tyler,N,4,V,SLC AR2025; CGS 2025
+ASX,SLC,Superloop,ASX300,Drew Kelton,Y,4,V,SLC AR2025; CGS 2025
+ASX,SLC,Superloop,ASX300,Alexandra Crammond,Y,2,V,SLC AR2025; NoM 2025
+ASX,SLC,Superloop,ASX300,Helen Livesey,Y,1,V,SLC AR2025; NoM 2025
+ASX,SLC,Superloop,ASX300,Tony Clark,Y,5,V,SLC AR2025; AMPAS 2010 Sci-Tech; AWN Oct 2022
+ASX,SLC,Superloop,ASX300,Vivian Stewart,Y,2,V,SLC AR2025
+ASX,SLC,Superloop,ASX300,Gareth Turner,Y,2,V,SLC AR2025
+ASX,NXT,NextDC,ASX300,Douglas Flynn,Y,4,V,NXT AR FY26; CGS FY26
+ASX,NXT,NextDC,ASX300,Craig Scroggie,N,2,V,NXT AR FY26; CGS FY26
+ASX,NXT,NextDC,ASX300,Dr Eileen Doyle,Y,4,V,NXT AR FY26; CGS FY26
+ASX,NXT,NextDC,ASX300,Jamaludin Ibrahim,Y,5,V,NXT AR FY26; Dialog Axiata disclosure
+ASX,NXT,NextDC,ASX300,Deborah Page AM,Y,1,V,NXT AR FY26
+ASX,NXT,NextDC,ASX300,Stuart Davis,Y,1,V,NXT AR FY26
+ASX,NXT,NextDC,ASX300,Stephen Smith,Y,4,V,NXT AR FY26
+ASX,NXT,NextDC,ASX300,Maria Leftakis,Y,1,V,NXT AR FY26
+ASX,MP1,Megaport,ASX300,Melinda Snowden,Y,1,V,MP1 AR FY26; CGS FY26
+ASX,MP1,Megaport,ASX300,Michael Reid,N,4,V,MP1 AR FY26; CGS FY26
+ASX,MP1,Megaport,ASX300,Jay Adelson,Y,5,V,MP1 AR FY26; CGS FY26; Equinix S-1 2000
+ASX,MP1,Megaport,ASX300,Mohit Lad,Y,5,V,MP1 AR FY26
+ASX,MP1,Megaport,ASX300,Michael Klayko,Y,4,V,MP1 AR FY26; Brocade DEF 14A 2013
+ASX,MP1,Megaport,ASX300,Glo Gordon,Y,2,V,MP1 AR FY26; MarketScreener/Crunchbase
+ASX,MP1,Megaport,ASX300,Jon Gidney,Y,1,V,MP1 AR FY26; ASX 19 May 2026
+ASX,MAQ,Macquarie Technology Group,ASX300,Lisa Brock,Y,3,V,MAQ AR2025; ASX 2025-26
+ASX,MAQ,Macquarie Technology Group,ASX300,David Buckingham,Y,2,V,MAQ AR2025; ASX 2025-26
+ASX,MAQ,Macquarie Technology Group,ASX300,Kate Vidgen,Y,1,V,MAQ AR2025; ASX 2026
+ASX,MAQ,Macquarie Technology Group,ASX300,David Tudehope,N,2,V,MAQ AR2025; ASX 2026
+ASX,MAQ,Macquarie Technology Group,ASX300,Aidan Tudehope,N,4,V,MAQ AR2025; ASX 2026
+ASX,SWP,Swoop Holdings,SmallCap,Anthony (Tony) Grist,N,2,V,SWP AR2026; SWP CGS FY26
+ASX,SWP,Swoop Holdings,SmallCap,Jonathan Pearce,N,1,V,SWP AR2026; SWP CGS FY26
+ASX,SWP,Swoop Holdings,SmallCap,William (Paul) Reid,N,4,V,SWP AR2026; SWP CGS FY26
+ASX,SWP,Swoop Holdings,SmallCap,Janine Rolfe,Y,1,V,SWP AR2026; SWP CGS FY26
+ASX,DGT,DigiCo Infrastructure REIT,ASX300,Joseph Carrozzi AM,Y,1,V,DGT AR2026; CGS FY26
+ASX,DGT,DigiCo Infrastructure REIT,ASX300,Rachel Grimes AM,Y,1,V,DGT AR2026; CGS FY26
+ASX,DGT,DigiCo Infrastructure REIT,ASX300,Stephanie Lai,Y,1,V,DGT AR2026; CGS FY26
+ASX,DGT,DigiCo Infrastructure REIT,ASX300,David Di Pilla,N,1,V,DGT AR2026; CGS FY26
+ASX,DGT,DigiCo Infrastructure REIT,ASX300,The Hon. Kelly O'Dwyer,N,1,V,DGT AR2026; CGS FY26
+ASX,5GG,Pentanet,SmallCap,David Buckingham,Y,2,V,5GG CGS FY26; see MAQ
+ASX,5GG,Pentanet,SmallCap,Stephen Cornish,N,2,V,5GG AR FY26
+ASX,5GG,Pentanet,SmallCap,Timothy Cornish,N,2,V,5GG AR FY26; CGS FY26
+ASX,5GG,Pentanet,SmallCap,Dalton Gooding,Y,1,V,5GG AR FY26; CGS FY26
+ASX,5GG,Pentanet,SmallCap,Dominic O'Hanlon,Y,2,V,5GG AR FY26; CGS FY26
