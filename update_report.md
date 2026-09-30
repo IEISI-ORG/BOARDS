@@ -22,11 +22,11 @@
 | ASX small caps | Sovereign Cloud Holdings | SOV | 0 | — | not started |
 | ASX small caps | 5G Networks | 5GN | 0 | — | not started |
 | ASX small caps | Tuas | TUA | 0 | — | not started |
-| New Zealand (NZX/ASX) | Chorus | CNU | 0 | 8 | not started |
+| New Zealand (NZX/ASX) | Chorus | CNU | 2 | 8 | in progress |
 | New Zealand (NZX/ASX) | Spark New Zealand | SPK | 0 | — | not started |
 | New Zealand (NZX/ASX) | Infratil | IFT | 0 | — | not started |
 
-Directors with a verified (grade V) score: **66**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
+Directors with a verified (grade V) score: **68**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
 
 ## 2. Level distribution by board
 
@@ -44,6 +44,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | DigiCo Infrastructure REIT | 5 | 0 | 0 | 0 | 0 | 0 | 5 | 0 |
 | Swoop Holdings | 4 | 0 | 0 | 1 | 0 | 1 | 2 | 0 |
 | Pentanet | 5 | 0 | 0 | 0 | 0 | 4 | 1 | 0 |
+| Chorus | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
 | **ASX 300 total (scored boards)** | **57** | **0** | **4** | **13** | **2** | **18** | **20** | **11** |
 
 ## 3. Directors at Level 4 and above
@@ -115,7 +116,7 @@ Directors outside the mapped range or previously unclassified: **19**.
 
 Factual statements from an earlier (unpublished) version of this analysis, checked against public sources. Only resolved items are listed.
 
-Status counts: corrected 4, verified 18.
+Status counts: corrected 4, verified 21.
 
 | ID | Claim | Status | Finding |
 |---|---|---|---|
@@ -134,13 +135,16 @@ Status counts: corrected 4, verified 18.
 | E14 | Telstra FY26 CGS: "Technology and digital" "well represented"; "moderated self-assessment"; category broadened | verified, **needs nuance** | All three quotes confirmed (CGS pp.5–6). But "well represented" is said of *every* category, and the pie shows only ~1 of 8 NEDs at "high competency" in Technology and digital. The report should add this. See `data/skill_matrices/TLS_FY26.md`. |
 | E15 | Telstra FY26 board education covered network engineering, satellite, cyber | verified | CGS p.6: "Network engineering and technology, including satellite technology"; "Cyber security"; also AI, customer trends, geopolitics; field technician ride-ons; Aura Network site visit. |
 | E16 | Megaport FY25 CGS matrix: 7/7 NaaS/SaaS; 3 highly + 4 moderately in product development | verified (FY26) | FY26 CGS (20 Aug 2026, current board): NaaS/SaaS 5 highly + 2 moderately (7/7); Product Development 3 + 4. Cite FY26. |
+| E17 | Committee structures for all 7 boards (no technology committee) | verified | No technology committee on TLS, TPG, ABB, SLC, NXT, MP1, MAQ per their FY25/FY26 annual reports and CGS (see data/cv/*.md). |
 | E18 | ABB: Britt resigned 24 Mar 2026 and technical advisory agreement terminated | corrected | Resigned 24 Mar 2026 ✔. Agreement "concluded by mutual agreement" (not "terminated"). ASX 24 Mar 2026. |
 | E19 | ABB: Rousselot appointed from 6 Oct 2026 (announced 3 Sep); two new directors planned | verified | ASX 3 Sep 2026; "intends to appoint two new Directors" (24 Mar 2026). Degree not stated in any ABB source. |
 | E20 | ABB AGM 23 Oct 2026 | verified | Notice of AGM 21 Sep 2026: Fri 23 Oct 2026, 10:00am. |
+| E21 | Loudon steps down at Oct 2026 Telstra AGM | verified | ASX 31 Aug 2026: Bridget Loudon-Harris steps down "effective from the conclusion of the 2026 Annual General Meeting on 13 October 2026"; not standing for re-election (Notice of AGM 31 Aug 2026). |
 | E22 | TPG: Millner retired May 2026; Caesar appointed 1 Jun 2026, joined 3 committees | verified | Millner retired at AGM 8 May 2026 (ASX 2 Apr, 8 May 2026); Caesar appointed Independent NED 1 Jun 2026, joined ARC, RGC, NC (ASX 1 Jun 2026). |
 | E23 | NXT: Clark and Lambert resigned 13 Nov 2025; Ibrahim and Page appointed 1 Nov 2025 | verified | NXT AR FY26 directors list: Page and Ibrahim appointed 1 Nov 2025; Lambert resigned 13 Nov 2025 (Clark's resignation also listed 13 Nov 2025). |
 | E24 | MP1: Gidney appointed 29 May 2026; Hennessy resigned 31 Jul 2026; Dempsey status | verified | Gidney NED 29 May 2026 and ARC Chair (ASX 19 May 2026); Dempsey stepped down from Board 29 May 2026 to chair Firmus; Hennessy appointed 5 Dec 2025, resigned 31 Jul 2026; Snowden interim RemNom Chair (ASX 31 Jul 2026). |
 | E25 | MAQ: Brock Chair from Feb 2026 vs James retiring 31 Mar 2026 as Chair | corrected | ASX 7 Jan 2026: James retires as Chair and director and Brock becomes Chair "following the release of the half year results in February" (2026). James still quoted as Chairman on 16 Feb 2026. "31 March 2026" not supported; exact date not stated. |
+| E26 | Chorus: Reid joins 1 Oct 2026; ASM 4 Nov 2026; Matthews retiring | verified | Reid joins 1 Oct 2026, independent (ASX/NZX 28 Sep 2026); ASM Wed 4 Nov 2026, 10am NZT; Matthews resigns effective 28 Oct 2026 after nine years (ASX/NZX 24 Aug 2026). Reid is not Swoop's William (Paul) Reid. |
 
 ## Appendix A. The level system
 
@@ -182,6 +186,7 @@ Replaces the A–D tiers in `report.md`. Six levels, ascending: **Level 6 is the
 This dataset is published openly. Therefore:
 1. **Public sources only.** Every fact must come from a source anyone can open without logging in (company filings, exchange announcements, regulator and court documents, official web pages, university or professional-body pages, reputable press).
 2. **"Public" means accessible without authentication.** A source counts only if an unauthenticated (logged-out / incognito) visitor can see the content. LinkedIn counts only for what its logged-out public profile view shows; it is self-reported, so on its own it supports grade P at most. Content seen only when logged in is never recorded. (LinkedIn blocks automated logged-out fetches — HTTP 999 — so LinkedIn facts need manual confirmation in an incognito browser before use.)
+2a. **Accessible to automated agents, lawfully.** A source must be readable by an automated agent without breaching the site's terms or `robots.txt`. LinkedIn's `robots.txt` prohibits automated access without express permission, so LinkedIn is not used at all (no automated requests, not even as a lead). Logged-out human checks in an incognito browser remain possible for the user, but such facts still need a second public source to be published.
 3. **Only verified scores are published.** A level appears in public output only at grade V. Grades P and U are listed as "verification pending", without a level.
 4. **Ambiguity is resolved by the tie-break rule, not by a provisional grade.** If Tier 1 evidence supports a lower level unambiguously and a higher level only on interpretation, score the lower level at grade V and record what evidence would raise it.
 
@@ -220,6 +225,7 @@ Each file below records the source URLs, retrieval date, evidence tier and the e
 
 - `data/src/5GG_AR2026.md` — Source: Pentanet FY26 Annual Report and FY26 Corporate Governance Statement
 - `data/src/ABB_AR2026.md` — Source: Aussie Broadband FY26 Annual Report, FY26 CGS, 2026 board announcements, 2026 Notice of AGM
+- `data/src/CNU_2026.md` — Source: Chorus 2026 Notice of Annual Meeting and board announcements
 - `data/src/DGT_AR2026.md` — Source: DigiCo Infrastructure REIT 2026 Annual Report, FY26 CGS, S&P March 2026 rebalance
 - `data/src/MAQ_AR2025.md` — Source: Macquarie Technology 2025 Annual Report and 2025–26 board announcements
 - `data/src/MP1_AR2026.md` — Source: Megaport FY26 Annual Report, FY26 CGS, board updates Dec 2025–Jul 2026, Equinix 2000 S-1

@@ -15,7 +15,7 @@
 | Holly Kramer | NED; 20 Mar 2026 | BA (Hons), MBA | Best & Less CEO; Telstra senior exec 10 yrs to 2009; Pacific Brands, Ford | 2 | V | ✔ |
 | David Lamont | NED; 3 Dec 2024; Audit Chair | BCom, CA | BHP CFO 2020–24; CSL CFO 2015–20; Orica, OZ Minerals | 1 | V | ✔ |
 | Ming Long AM | NED; 1 Jan 2023 | BEc, LLB, MBA, FCA, DBus (Hon) | Funds, real estate, infrastructure; Chair CSIRO (from 2025) | 1 | V | ✔ (CSIRO chair is science governance, not cyber/network → not L3(a)) |
-| Bridget Loudon | NED; 14 Aug 2020 | BCom (University College Galway) | Founder/CEO Expert360 (talent platform); ex-Bain | 2 | V | ✔; **no retirement mentioned in S1** — E21 still open |
+| Bridget Loudon | NED; 14 Aug 2020 | BCom (University College Galway) | Founder/CEO Expert360 (talent platform); ex-Bain | 2 | V | ✔. Steps down at the conclusion of the AGM on 13 Oct 2026 (ASX 31 Aug 2026) |
 
 **Board totals (9):** L6 0 · L5 0 · L4 1 · L3 0 · L2 4 · L1 4.
 Old report: A0 B1 C3 D5. Change: Loudon D→L2 (tech-sector founder = sector commercial exposure). *Borderline, flag for*

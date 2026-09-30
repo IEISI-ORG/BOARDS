@@ -54,3 +54,17 @@ Chair of the Audit Committee, and member of the Risk and Sustainability Committe
 David is an accomplished Chief Financial Officer and business leader, with more than 30 years’ experience in a range of roles with highly respected organisations, including BHP, CSL and Orica.
 He also held the positions of CFO and Executive Director at Minerals and Metals Group and previously served as CFO for several other multinational public companies, including OZ Minerals Limited, PaperlinX Limited and Incitec Pivot Limited.
 ```
+
+## Added 2026-10-01: Loudon-Harris retirement (Tier 1)
+
+- **ASX release, 31 Aug 2026, "Bridget Loudon-Harris to step down from the Telstra Board"**: https://announcements.asx.com.au/asxpdf/20260831/pdf/073grvjx79fkwr.pdf
+- **Notice of 2026 AGM, 31 Aug 2026**: https://announcements.asx.com.au/asxpdf/20260831/pdf/073grxrb7b4dwd.pdf (AGM 13 Oct 2026)
+
+```text
+Monday, 31 August 2026: Telstra Chair Craig Dunn today announced Bridget Loudon-Harris will step down from the Telstra Board, effective from the conclusion of the 2026 Annual General Meeting on 13 October 2026.
+Ms Loudon-Harris has served six years as a Director, since being appointed to the Board in October 2020, and has been a member of the People and Remuneration Committee since October 2022.
+Mr Dunn thanked Ms Loudon-Harris for her very significant contribution to the company through a period that saw Telstra return to growth, continue its transformation and respond to significant disruption and rapid technological change.
+"Bridget deeply understands the critical role we play in connecting people, communities and businesses across Australia, and the importance of Telstra remaining a global leader in telecommunications technology and innovation,” Mr Dunn said.
+```
+
+Note: the release says she was appointed "in October 2020"; the Annual Report 2026 says 14 August 2020.

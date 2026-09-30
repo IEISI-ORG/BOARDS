@@ -8,11 +8,53 @@ digital-infrastructure operators in Australia and New Zealand.
 - **Report:** [`update_report.md`](update_report.md) — coverage, level distribution by board, directors at
   Level 4 and above, company skills matrices, and verification of claims. The level system is explained
   in Appendix A of the report.
-- **Director table:** [`data/directors.csv`](data/directors.csv) — 66 directors with a verified level.
+- **Director table:** [`data/directors.csv`](data/directors.csv) — 68 directors with a verified level.
 - **Per-company checks:** [`data/cv/`](data/cv/) — each director's degrees, career evidence, level and grade.
 - **Company skills matrices:** [`data/skill_matrices/`](data/skill_matrices/).
 - **Sources:** [`data/src/`](data/src/) — for each source document: URL, date, evidence tier and the
   extracts relied on.
+
+## Corrections
+
+Corrections are welcome. Open a GitHub issue (or a pull request) with the public source that shows the
+error. A correction is applied only when its source is public, so that anyone — person or AI agent —
+can check it.
+
+## Access for people and AI agents
+
+All data is published as plain files at stable paths so that people and AI agents can read it without
+logging in:
+
+| File | Format | Contents |
+|---|---|---|
+| `data/directors.csv`, `data/directors.json` | CSV / JSON | One row per board seat with a verified level |
+| `data/cv/<TICKER>.md` | Markdown | Degrees, career evidence, level and grade per director |
+| `data/skill_matrices/<TICKER>_<FY>.md` | Markdown | Each company's published skills matrix |
+| `data/src/<TICKER>_<DOC>.md` | Markdown | Source URLs, dates, evidence tier and extracts |
+
+Raw URLs follow the pattern `https://raw.githubusercontent.com/IEISI-ORG/BOARDS/main/<path>`.
+
+**Data dictionary (`directors.csv` / `directors.json`):** `exchange` (ASX, NZX/ASX); `ticker`; `company`;
+`cohort` (ASX300, SmallCap, NZ); `director`; `independent` (Y/N, per the company's own classification);
+`level` (1–6, see Appendix A of the report); `evidence_grade` (always V in published data); `sources`
+(short names of the documents relied on; full URLs in `data/src/`).
+
+## Why there is no LinkedIn data
+
+Only sources that AI agents can read openly and lawfully are used. LinkedIn does not meet that test:
+
+- LinkedIn's `robots.txt` (https://www.linkedin.com/robots.txt) states: *"The use of robots or other
+  automated means to access LinkedIn without the express permission of LinkedIn is strictly
+  prohibited."*
+- Logged-out automated requests to LinkedIn profile pages return HTTP status 999 (tested 1 October 2026).
+- Profile content shown only to logged-in members is not public, and profiles are self-reported.
+
+For commentary on LinkedIn's User Agreement and AI agents, see Stan Robinson, Jr.'s post:
+https://www.linkedin.com/posts/stanrobinson_linkedintips-aiinbusiness-aiagents-share-7361444705626124290-h1hJ/
+
+As a result, directors' careers are recorded only as far as company filings, exchange announcements,
+regulator documents, official web pages and reputable press describe them. Where a level could be higher
+with better evidence, the per-company file says what public evidence would change it.
 
 ## Earlier classification
 
