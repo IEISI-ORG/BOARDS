@@ -12,3 +12,5 @@
 | Janine Rolfe | NED; 9 Jun 2026 | BEc, LLB (Hons) (Sydney), GAICD | GC & Co Sec Link Group; founded Company Matters; Qantas, Mallesons | 1 | V | Only independent director. Also director of Cloudwerx Holdings (network services) — board seat, not career |
 
 **Board totals (4):** L6 0 · L5 0 · L4 1 · L3 0 · L2 1 · L1 2. Independent: 1 (L1).
+
+**Registry record:** AS58511 ("ANYCAST-GLOBAL-BACKBONE") is registered at APNIC to Anycast Holdings Pty Ltd (RDAP, checked 2026-09-30). RDAP (https://rdap.apnic.net/autnum/58511, checked 2026-10-01): registrant ORG-CIPL2-AP "Anycast Holdings Pty Ltd"; registration 2012-01-12; last changed 2020-06-22. Swoop's website states that AnyCast was acquired by Swoop Holdings in 2020. Acquisition announcement date and the registrant entity's current status not yet checked.

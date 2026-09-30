@@ -39,6 +39,13 @@ Raw URLs follow the pattern `https://raw.githubusercontent.com/IEISI-ORG/BOARDS/
 `level` (1–6, see Appendix A of the report); `evidence_grade` (always V in published data); `sources`
 (short names of the documents relied on; full URLs in `data/src/`).
 
+## Source access and terms of use
+
+Before using any website or API we check its terms of use and `robots.txt`. If they prohibit automated
+or AI-agent access, we record that and stop using the source; if we find no prohibition, we record that
+and use it. The register is in [`data/ACCESS_POLICY.md`](data/ACCESS_POLICY.md). For example, the ASX
+website's terms prohibit robots and scrapers, so ASX pages are no longer accessed automatically.
+
 ## Why there is no LinkedIn data
 
 Only sources that AI agents can read openly and lawfully are used. LinkedIn does not meet that test:
