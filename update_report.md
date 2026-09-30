@@ -6,25 +6,27 @@
 
 ## 1. Coverage
 
-| Cohort | Company | Ticker | Directors scored | Directors in register | Status |
-|---|---|---|---|---|---|
-| ASX 300 | Telstra | TLS | 9 | 9 | complete |
-| ASX 300 | TPG Telecom | TPG | 10 | 10 | complete |
-| ASX 300 | Aussie Broadband | ABB | 5 | 5 | complete |
-| ASX 300 | Superloop | SLC | 8 | 8 | complete |
-| ASX 300 | NextDC | NXT | 8 | 8 | complete |
-| ASX 300 | Megaport | MP1 | 7 | 7 | complete |
-| ASX 300 | Macquarie Technology Group | MAQ | 5 | 5 | complete |
-| ASX 300 | DigiCo Infrastructure REIT | DGT | 5 | 5 | complete |
-| ASX small caps | Swoop Holdings | SWP | 4 | 4 | complete |
-| ASX small caps | Pentanet | 5GG | 5 | 5 | complete |
-| ASX small caps | Comms Group | CCG | 0 | — | not started |
-| ASX small caps | Sovereign Cloud Holdings | SOV | 0 | — | not started |
-| ASX small caps | 5G Networks | 5GN | 0 | — | not started |
-| ASX small caps | Tuas | TUA | 0 | — | not started |
-| New Zealand (NZX/ASX) | Chorus | CNU | 2 | 8 | in progress |
-| New Zealand (NZX/ASX) | Spark New Zealand | SPK | 0 | — | not started |
-| New Zealand (NZX/ASX) | Infratil | IFT | 0 | — | not started |
+Inclusion check: each company holds Internet number resources (IP addresses / ASN) from APNIC, the Regional Internet Registry for the Asia-Pacific region (including Australia and New Zealand), directly or through a subsidiary — evidence that it runs its own internet-connected services. Registry records can be checked at https://rdap.apnic.net/.
+
+| Cohort | Company | Ticker | APNIC number resources (holder / ASN) | Directors scored | Directors in register | Status |
+|---|---|---|---|---|---|---|
+| ASX 300 | Telstra | TLS | Telstra Limited / AS1221 | 9 | 9 | complete |
+| ASX 300 | TPG Telecom | TPG | TPG Internet Pty Ltd / AS7545 | 10 | 10 | complete |
+| ASX 300 | Aussie Broadband | ABB | Aussie Fibre Pty Ltd / AS4764 | 5 | 5 | complete |
+| ASX 300 | Superloop | SLC | Superloop (Australia) Pty Ltd / AS38195 | 8 | 8 | complete |
+| ASX 300 | NextDC | NXT | NEXTDC Limited (ORG-NL21-AP) | 8 | 8 | complete |
+| ASX 300 | Megaport | MP1 | Megaport Pty Ltd / AS133937 | 7 | 7 | complete |
+| ASX 300 | Macquarie Technology Group | MAQ | Macquarie Technology Operations Pty Ltd / AS17477 | 5 | 5 | complete |
+| ASX 300 | DigiCo Infrastructure REIT | DGT | iseek Communications Pty Ltd (APNIC org) | 5 | 5 | complete |
+| ASX small caps | Swoop Holdings | SWP | Swoop Telecommunications Pty Ltd (ORG-CC4-AP); Anycast Holdings / AS58511 | 4 | 4 | complete |
+| ASX small caps | Pentanet | 5GG | Pentanet Limited / AS10214 | 5 | 5 | complete |
+| ASX small caps | Comms Group | CCG | Comms Group Operations Pty Ltd (ORG-CGOP2-AP) | 0 | — | not started |
+| ASX small caps | Sovereign Cloud Holdings | SOV | Sovereign Cloud Australia Pty Ltd (ORG-SCAP1-AP) | 0 | — | not started |
+| ASX small caps | 5G Networks | 5GN | 5G Network Operations Pty Ltd / AS63956 | 0 | — | not started |
+| ASX small caps | Tuas | TUA | Simba Telecom Pte Ltd / AS4817 (Singapore) | 0 | — | not started |
+| New Zealand (NZX/ASX) | Chorus | CNU | Chorus New Zealand Limited / AS132898 | 2 | 8 | in progress |
+| New Zealand (NZX/ASX) | Spark New Zealand | SPK | Spark New Zealand Trading Limited / AS4648 | 0 | — | not started |
+| New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 0 | — | not started |
 
 Directors with a verified (grade V) score: **68**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
 

@@ -71,8 +71,18 @@ make recommendations.
 
 ## Scope
 
-Companies listed on the ASX or NZX that operate network or data-centre infrastructure and are APNIC
-members. Resellers, software companies and contractors are excluded.
+Companies listed on the ASX or NZX that run their own internet-connected network or data-centre
+services.
+
+The check that a company actually runs internet-connected services is that it holds Internet number
+resources — IP addresses and/or an Autonomous System Number (ASN) — from a Regional Internet Registry
+(APNIC, the registry for the Asia-Pacific region including Australia and New Zealand), in its own name or a subsidiary's. Without number resources a
+company cannot operate its own presence on the internet. The registry record for each company is
+listed in the report's coverage table and can be checked at https://rdap.apnic.net/.
+
+Registry membership is a check, not the reason for inclusion: many banks, retailers and energy companies
+also hold number resources for their own corporate networks. Resellers that do not run their own
+network, software companies and contractors are excluded.
 
 ## Coverage
 
