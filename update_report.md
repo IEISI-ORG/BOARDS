@@ -26,7 +26,7 @@ Inclusion check: each company holds Internet number resources (IP addresses / AS
 | ASX small caps | Tuas | TUA | Simba Telecom Pte Ltd / AS4817 (Singapore) | 0 | — | not started |
 | New Zealand (NZX/ASX) | Chorus | CNU | Chorus New Zealand Limited / AS132898 | 2 | 8 | in progress |
 | New Zealand (NZX/ASX) | Spark New Zealand | SPK | Spark New Zealand Trading Limited / AS4648 | 0 | — | not started |
-| New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 0 | — | not started |
+| New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 0 | 8 | not started |
 
 Directors with a verified (grade V) score: **68**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
 
