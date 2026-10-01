@@ -1,0 +1,18 @@
+ticker,holders,asns,alloc_v4_blocks,alloc_v6_blocks,routed_v4,routed_v6,roas_in_alloc_v4,roas_in_alloc_v6,rov_valid,rov_invalid,rov_notfound,aspa_asns,rdap_truncated
+TLS,Telstra Limited (ORG-TC6-AP),14,95,3,775,9,152,186,613,0,171,3,False
+TPG,TPG Internet Pty Ltd (ORG-TIPL2-AP),16,998,10,4652,415,364,0,586,0,4481,0,False
+ABB,Aussie Fibre Pty Ltd (ORG-WNPL1-AP),4,27,4,385,19,33,14,383,0,24,0,False
+SLC,SUPERLOOP (AUSTRALIA) PTY LTD (ORG-SPL2-AP),24,77,6,234,17,267,4,226,0,27,0,False
+NXT,NEXTDC Limited (ORG-NL21-AP),2,3,2,8,1,0,0,0,0,9,0,False
+MP1,Megaport Pty Ltd (ORG-MPL6-AP),6,5,2,0,0,5,5,0,0,0,0,False
+MAQ,Macquarie Technology Operations Pty Limited (ORG-MCT1-AP),8,16,2,158,11,34,13,129,1,39,0,False
+DGT,iseek Communications Pty Ltd (ORG-ICPL16-AP),3,0,0,0,0,0,0,0,0,0,0,False
+SWP,Swoop Telecommunications Pty Ltd (ORG-CC4-AP); Anycast Holdings Pty Ltd (ORG-CIPL2-AP),12,38,11,134,8,90,7,110,1,31,0,False
+5GG,PENTANET LIMITED (ORG-PPL10-AP),3,9,3,48,8,29,23,56,0,0,3,False
+CCG,Comms Group Operations Pty Ltd (ORG-CGOP2-AP),1,1,1,0,0,0,0,0,0,0,0,False
+CYB,Sovereign Cloud Australia Pty Ltd (ORG-SCAP1-AP),1,4,1,6,2,8,2,8,0,0,0,False
+5GN,5G NETWORK OPERATIONS PTY LTD (ORG-NOPL2-AP),18,52,16,141,19,87,29,139,1,21,0,False
+TUA,Simba Telecom Pte Ltd (ORG-STPL31-AP),1,4,1,24,15,27,11,35,0,4,0,False
+CNU,CHORUS NEW ZEALAND LIMITED (ORG-CNZL1-AP),2,1,1,5,1,2,3,7,0,0,2,False
+SPK,Spark New Zealand Trading Limited (ORG-SNZT1-AP),16,74,4,653,91,13,1,23,0,721,0,False
+IFT,One New Zealand Group Limited (ORG-VNZL1-AP),22,46,7,93,6,177,13,85,0,14,0,False
