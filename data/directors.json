@@ -525,7 +525,7 @@
   "independent": "Y",
   "level": "3",
   "evidence_grade": "V",
-  "sources": "MAQ AR2025; ASX 2025-26"
+  "sources": "MAQ AR2025; ASX 2025-26; MAQ AR2026 (App4E)"
  },
  {
   "exchange": "ASX",
@@ -534,9 +534,9 @@
   "cohort": "ASX300",
   "director": "David Buckingham",
   "independent": "Y",
-  "level": "2",
+  "level": "4",
   "evidence_grade": "V",
-  "sources": "MAQ AR2025; ASX 2025-26"
+  "sources": "MAQ AR2025; ASX 2025-26; MAQ AR2026 (App4E)"
  },
  {
   "exchange": "ASX",
@@ -765,9 +765,9 @@
   "cohort": "SmallCap",
   "director": "David Buckingham",
   "independent": "Y",
-  "level": "2",
+  "level": "4",
   "evidence_grade": "V",
-  "sources": "5GG CGS FY26; see MAQ"
+  "sources": "5GG CGS FY26; MAQ AR2026 (App4E)"
  },
  {
   "exchange": "ASX",

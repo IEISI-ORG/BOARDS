@@ -4,4 +4,4 @@
 - **Format:** list of 12 "key skills ... considered necessary and available across the current Board composition". **No counts, ratings or per-director attribution.**
 - **Skills listed (verbatim):** Board experience; Capital markets; Entrepreneurship and business management; Telecommunications industry expertise; Accounting and financial literacy; Risk management and oversight; Marketing expertise; Strategy and leadership; Management and commercial experience; Corporate governance expertise; Legal experience; Mergers and acquisitions experience.
 - **Not listed:** technology, network engineering, cyber security.
-- **Comparison with scoring frame (all 5 scored):** no director at L4+; 4 at L2 (telco/tech-sector careers), 1 at L1. The matrix lists telecommunications industry expertise but no technology or network-engineering skill, consistent with the scored evidence.
+- **Comparison with scoring frame (all 5 scored; updated 2026-10-01):** technology/network-engineering skill listed in matrix: none. Directors scored L4+: 1 (Buckingham, L4, engineering degree per MAQ FY26 Annual Report); L5+: 0; L2: 3 (telco/tech-sector careers); L1: 1.

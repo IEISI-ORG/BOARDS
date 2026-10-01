@@ -46,8 +46,8 @@ ASX,MP1,Megaport,ASX300,Mohit Lad,Y,5,V,MP1 AR FY26
 ASX,MP1,Megaport,ASX300,Michael Klayko,Y,4,V,MP1 AR FY26; Brocade DEF 14A 2013
 ASX,MP1,Megaport,ASX300,Glo Gordon,Y,2,V,MP1 AR FY26; MarketScreener/Crunchbase
 ASX,MP1,Megaport,ASX300,Jon Gidney,Y,1,V,MP1 AR FY26; ASX 19 May 2026
-ASX,MAQ,Macquarie Technology Group,ASX300,Lisa Brock,Y,3,V,MAQ AR2025; ASX 2025-26
-ASX,MAQ,Macquarie Technology Group,ASX300,David Buckingham,Y,2,V,MAQ AR2025; ASX 2025-26
+ASX,MAQ,Macquarie Technology Group,ASX300,Lisa Brock,Y,3,V,MAQ AR2025; ASX 2025-26; MAQ AR2026 (App4E)
+ASX,MAQ,Macquarie Technology Group,ASX300,David Buckingham,Y,4,V,MAQ AR2025; ASX 2025-26; MAQ AR2026 (App4E)
 ASX,MAQ,Macquarie Technology Group,ASX300,Kate Vidgen,Y,1,V,MAQ AR2025; ASX 2026
 ASX,MAQ,Macquarie Technology Group,ASX300,David Tudehope,N,2,V,MAQ AR2025; ASX 2026
 ASX,MAQ,Macquarie Technology Group,ASX300,Aidan Tudehope,N,4,V,MAQ AR2025; ASX 2026
@@ -68,7 +68,7 @@ ASX,DGT,DigiCo Infrastructure REIT,ASX300,Rachel Grimes AM,Y,1,V,DGT AR2026; CGS
 ASX,DGT,DigiCo Infrastructure REIT,ASX300,Stephanie Lai,Y,1,V,DGT AR2026; CGS FY26
 ASX,DGT,DigiCo Infrastructure REIT,ASX300,David Di Pilla,N,1,V,DGT AR2026; CGS FY26
 ASX,DGT,DigiCo Infrastructure REIT,ASX300,The Hon. Kelly O'Dwyer,N,1,V,DGT AR2026; CGS FY26
-ASX,5GG,Pentanet,SmallCap,David Buckingham,Y,2,V,5GG CGS FY26; see MAQ
+ASX,5GG,Pentanet,SmallCap,David Buckingham,Y,4,V,5GG CGS FY26; MAQ AR2026 (App4E)
 ASX,5GG,Pentanet,SmallCap,Stephen Cornish,N,2,V,5GG AR FY26
 ASX,5GG,Pentanet,SmallCap,Timothy Cornish,N,2,V,5GG AR FY26; CGS FY26
 ASX,5GG,Pentanet,SmallCap,Dalton Gooding,Y,1,V,5GG AR FY26; CGS FY26

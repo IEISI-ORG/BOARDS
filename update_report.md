@@ -46,10 +46,10 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Superloop | 8 | 0 | 1 | 2 | 0 | 4 | 1 | 2 |
 | NextDC | 8 | 0 | 1 | 3 | 0 | 1 | 3 | 4 |
 | Megaport | 7 | 0 | 2 | 2 | 0 | 1 | 2 | 3 |
-| Macquarie Technology Group | 5 | 0 | 0 | 1 | 1 | 2 | 1 | 0 |
+| Macquarie Technology Group | 5 | 0 | 0 | 2 | 1 | 1 | 1 | 1 |
 | DigiCo Infrastructure REIT | 5 | 0 | 0 | 0 | 0 | 0 | 5 | 0 |
 | Swoop Holdings | 4 | 0 | 0 | 1 | 0 | 1 | 2 | 0 |
-| Pentanet | 5 | 0 | 0 | 0 | 0 | 4 | 1 | 0 |
+| Pentanet | 5 | 0 | 0 | 1 | 0 | 3 | 1 | 1 |
 | Comms Group | 5 | 0 | 0 | 1 | 0 | 2 | 2 | 0 |
 | AUCyber (formerly Sovereign Cloud Holdings) | 3 | 0 | 0 | 0 | 0 | 1 | 2 | 0 |
 | 5G Networks | 4 | 0 | 0 | 0 | 0 | 2 | 2 | 0 |
@@ -59,7 +59,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Infratil | 8 | 0 | 0 | 1 | 0 | 1 | 6 | 1 |
 | Optus (Singtel Optus Pty Limited) | 6 | 0 | 0 | 1 | 1 | 2 | 2 | 0 |
 | Vocus Group | 7 | 0 | 0 | 1 | 0 | 3 | 3 | 0 |
-| **ASX 300 total (scored boards)** | **57** | **0** | **4** | **13** | **2** | **18** | **20** | **11** |
+| **ASX 300 total (scored boards)** | **57** | **0** | **4** | **14** | **2** | **17** | **20** | **12** |
 
 ## 3. Directors at Level 4 and above
 
@@ -69,11 +69,13 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Megaport | Mohit Lad | Y | 5 | V | Ph.D. Computer Science (UCLA) (S1) | Co-founder and former CEO of ThousandEyes (acquired by Cisco 2020); Cisco SVP Network Assurance; NANOG Program Committee; "widely recognised for his deep technical… |
 | NextDC | Jamaludin Ibrahim | Y | 5 | V | BSc Business Administration, minor in Mathematics (Cal State Chico, 1978); MBA (Operations Research &… | IBM Malaysia 1981–93: first five years as Systems Engineer (Dialog Axiata disclosure, Tier 2; NXT AR confirms "systems engineering", Tier 1); MD DEC Malaysia 1993–97;… |
 | Superloop | Tony Clark | Y | 5 | V | none stated in public sources | Co-founder Rising Sun Pictures (1995), Cinenet Systems and Cospective (S1); VFX Supervisor credits incl. *Sky Captain and the World of Tomorrow* (2004), *Harry Potter… |
+| Pentanet | David Buckingham | Y | 4 | V | Bachelor of Technology (Hons) in Engineering Science, Loughborough University of Technology (MAQ FY26 Annual… | TMT corporate leader 30+ yrs (MAQ ASX 19 Sep 2025); NED Macquarie Technology |
 | Aussie Broadband | Jean-Baptiste Rousselot | Y | 4 | V | not stated in public sources checked (ABB ASX 3 Sep 2026; Notice of AGM 21 Sep 2026) | Telstra, NBN Co C-suite ("led large scale network rollouts and operational transformation"), Chorus CEO; NED BAI Communications; TCF NZ NED/Chair |
 | Aussie Broadband | Michael Omeros | N | 4 | V | BEng Electronics (1st Hons), BIT (with Distinction) | Senior management GBST, Zurich (UK); co-founded telco/cloud/IT businesses 2007–11; MD Over the Wire; Group Exec Wholesale & CEO Symbio |
 | Comms Group | Peter McGrath | N | 4 | V | B.Eng, MBA | 30+ yrs telecommunications/ICT; CEO of several Australian telcos; equity capital markets |
 | Infratil | Andrew Clark | Y | 4 | V | BEng, BSc, MBA | BCG (CEO ANZ, CEO Indonesia); Chief Transformation Officer NAB |
 | Macquarie Technology Group | Aidan Tudehope | N | 4 | V | BCom | MD Hosting Group (Cloud Services & Government, Data Centres), leads Secure Government Cloud and Cyber Security; former COO; "instrumental in the development of… |
+| Macquarie Technology Group | David Buckingham | Y | 4 | V | Bachelor of Technology (Hons) in Engineering Science, Loughborough University of Technology (S3); ICAEW… | More than 30 years as a corporate leader in telecommunications, media and technology (S2, S3); Chair/NED of Pentanet (ASX:5GG), Hiremi, Way2VAT, Hyprfire (S3) |
 | Megaport | Michael Klayko | Y | 4 | V | B.S. electronic engineering technology (Ohio Institute of Technology) (Brocade DEF 14A, Tier 1) | CEO Brocade 2005–13; CEO Rhapsody Networks; EVP McDATA; SVP N. America Sales EMC; HP, IBM executive roles; Operating Executive, Marlin Equity |
 | Megaport | Michael Reid | N | 4 | V | Degree in Aerospace Engineering (QUT) | Cisco: ThousandEyes CRO, Worldwide Head of Sales for acquisitions, regional sales; 20+ yrs industry |
 | NextDC | Douglas Flynn | Y | 4 | V | Bachelor of Chemical Engineering (Newcastle NSW); MBA (Melbourne, distinction) | CEO Davies Brothers; MD News International 1995–98; CEO Aegis Group 1999–; CEO Rentokil Initial 2005–08; Chair IMEXHS |
@@ -98,7 +100,6 @@ The original report used tiers A–D. The mapping used for comparison is A→L5/
 | Aussie Broadband | Jean-Baptiste Rousselot | A | 4 | V |
 | Aussie Broadband | Michael Omeros | A | 4 | V |
 | Aussie Broadband | Sarah Adam-Gedge | B (IT-services leadership) | 2 | V |
-| Macquarie Technology Group | David Buckingham | B | 2 | V |
 | Macquarie Technology Group | Lisa Brock | D (maths is outside the A/B degree definition) | 3 | V |
 | Megaport | Michael Klayko | C | 4 | V |
 | Megaport | Michael Reid | C (provisional) | 4 | V |
@@ -115,15 +116,16 @@ The original report used tiers A–D. The mapping used for comparison is A→L5/
 | TPG Telecom | Iñaki Berroeta | A | 4 | V |
 | TPG Telecom | Jack Teoh | C | 1 | V |
 
-Directors outside the mapped range or previously unclassified: **19**.
+Directors outside the mapped range or previously unclassified: **18**.
 
 ## 5. Company skills matrices
 
 | Company | File | Format and technology entry (as recorded) |
 |---|---|---|
-| Pentanet | `data/skill_matrices/5GG_FY26.md` | list of 12 "key skills ... considered necessary and available across the current Board composition". No counts, ratings or per-director attribution. — no director at L4+; 4 at L2 (telco/tech-sector careers), 1 at L1. The matrix lists telecommunications industry expertise but no technology or network-engineering skill, consistent with the scored evidence. |
+| Pentanet | `data/skill_matrices/5GG_FY26.md` | list of 12 "key skills ... considered necessary and available across the current Board composition". No counts, ratings or per-director attribution. — technology/network-engineering skill listed in matrix: none. Directors scored L4+: 1 (Buckingham, L4, engineering degree per MAQ FY26 Annual Report); L5+: 0; L2: 3 (telco/tech-sector careers); L1: 1. |
 | Aussie Broadband | `data/skill_matrices/ABB_FY26.md` | Limited / Capable / Advanced / Expert. Aggregate counts printed on bars (grade V). — 2 "Expert" in Technology and Digital; frame gives 2 at L4 (Omeros V, Adam-Gedge P), 0 at L5+. Plausible match if "Expert" = Omeros and Adam-Gedge. |
 | DigiCo Infrastructure REIT | `data/skill_matrices/DGT_FY26.md` | 12 skills, each marked "Yes" for the board as a whole. No counts, ratings or per-director attribution. — all five directors L1, including all three members of the Technology and Security Committee. The matrix's omission of technology matches the scored evidence. |
+| Macquarie Technology Group | `data/skill_matrices/MAQ_FY26.md` | narrative statement only. No categories table, counts, ratings or per-director attribution in this document. The statement says the matrix is reviewed annually. — company-reported technology count: not published. Directors scored L4+: 2 (A. Tudehope L4(b), executive; Buckingham L4(a), independent). L5+: 0. |
 | Megaport | `data/skill_matrices/MP1_FY26.md` | Highly Developed / Moderately Developed. Aggregate counts, printed (grade V). — L5 2 (Adelson, Lad), L4 2 (Reid, Klayko), L2 1, L1 2. 3 "highly developed" in Product Development vs 2 at L5 — closest match between self-assessment and scored evidence in the set so far. |
 | NextDC | `data/skill_matrices/NXT_FY26.md` | narrative statement only. No counts, ratings, categories table or per-director attribution, although the CGS checklist says "NEXTDC discloses a Board skills… — L5 1 (Ibrahim — IBM systems engineer 1981–86), L4 2 (Flynn chemical eng., Smith engineering), L3 1 (Doyle). No director has recent hands-on technical, data-centre engineering or cyber-security experience documented.… |
 | Superloop | `data/skill_matrices/SLC_FY25.md` | qualitative list of skills "currently represented on the Superloop Board". No counts, ratings or per-director attribution. — L5 1 (Clark — software/VFX, not networks), L4 2 (Tyler, Kelton — EE degrees, commercial careers). No director has a documented network-engineering career, so the "Network Engineering" claim is not supported by… |
@@ -163,7 +165,7 @@ Status counts: corrected 4, unsupported 1, verified 21.
 | E22 | TPG: Millner retired May 2026; Caesar appointed 1 Jun 2026, joined 3 committees | verified | Millner retired at AGM 8 May 2026 (ASX 2 Apr, 8 May 2026); Caesar appointed Independent NED 1 Jun 2026, joined ARC, RGC, NC (ASX 1 Jun 2026). |
 | E23 | NXT: Clark and Lambert resigned 13 Nov 2025; Ibrahim and Page appointed 1 Nov 2025 | verified | NXT AR FY26 directors list: Page and Ibrahim appointed 1 Nov 2025; Lambert resigned 13 Nov 2025 (Clark's resignation also listed 13 Nov 2025). |
 | E24 | MP1: Gidney appointed 29 May 2026; Hennessy resigned 31 Jul 2026; Dempsey status | verified | Gidney NED 29 May 2026 and ARC Chair (ASX 19 May 2026); Dempsey stepped down from Board 29 May 2026 to chair Firmus; Hennessy appointed 5 Dec 2025, resigned 31 Jul 2026; Snowden interim RemNom Chair (ASX 31 Jul 2026). |
-| E25 | MAQ: Brock Chair from Feb 2026 vs James retiring 31 Mar 2026 as Chair | corrected | ASX 7 Jan 2026: James retires as Chair and director and Brock becomes Chair "following the release of the half year results in February" (2026). James still quoted as Chairman on 16 Feb 2026. "31 March 2026" not supported; exact date not stated. |
+| E25 | MAQ: Brock Chair from Feb 2026 vs James retiring 31 Mar 2026 as Chair | corrected | Updated 2026-10-01 (new Tier 1 source): MAQ Annual Report FY26 (Appendix 4E version, 26 Aug 2026, company website https://www.macquarietechnologygroup.com/wp-content/uploads/2026/08/MAQ-2026-App4E-Annual-Report-Final.pdf): James retired 31 Mar 2026… |
 | E26 | Chorus: Reid joins 1 Oct 2026; ASM 4 Nov 2026; Matthews retiring | verified | Reid joins 1 Oct 2026, independent (ASX/NZX 28 Sep 2026); ASM Wed 4 Nov 2026, 10am NZT; Matthews resigns effective 28 Oct 2026 after nine years (ASX/NZX 24 Aug 2026). Reid is not Swoop's William (Paul) Reid. |
 
 ## 7. Routing security and IPv6 (numbers only)
@@ -291,6 +293,7 @@ Each file below records the source URLs, retrieval date, evidence tier and the e
 - `data/src/DGT_AR2026.md` — Source: DigiCo Infrastructure REIT 2026 Annual Report, FY26 CGS, S&P March 2026 rebalance
 - `data/src/IFT_AR2026.md` — Source: Infratil Annual Report 2026 and board announcement (18 Jun 2026)
 - `data/src/MAQ_AR2025.md` — Source: Macquarie Technology 2025 Annual Report and 2025–26 board announcements
+- `data/src/MAQ_AR2026.md` — Source: Macquarie Technology Group Annual Report for the year ended 30 June 2026 (Appendix 4E version)
 - `data/src/MP1_AR2026.md` — Source: Megaport FY26 Annual Report, FY26 CGS, board updates Dec 2025–Jul 2026, Equinix 2000 S-1
 - `data/src/NXT_AR2026.md` — Source: NextDC FY26 Annual Report and FY26 Corporate Governance Statement
 - `data/src/NXT_WEB_interconnectivity.md` — NXT: NEXTDC "Interconnectivity Solutions" web page

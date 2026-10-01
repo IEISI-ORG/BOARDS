@@ -9,7 +9,7 @@
 - **Retrieved:** 2026-10-01 · **Raw files:** deleted after extraction
 
 ## Summary
-- **Board (5) at 30 Sep 2026:** Lisa Brock (Chair from Feb 2026), David Tudehope (CEO), Aidan Tudehope (MD Hosting), David Buckingham (from 24 Sep 2025, fills Bart Vogel's seat), Kate Vidgen (after FY26 half-year results, Feb 2026; fills Adelle Howse's seat).
+- **Board (5) at 30 Sep 2026:** Lisa Brock (Chair from Feb 2026 — superseded: FY26 Annual Report gives 1 Apr 2026, see `MAQ_AR2026.md`), David Tudehope (CEO), Aidan Tudehope (MD Hosting), David Buckingham (from 24 Sep 2025, fills Bart Vogel's seat), Kate Vidgen (after FY26 half-year results, Feb 2026; fills Adelle Howse's seat).
 - **Departures:** Bart Vogel retired 31 Dec 2024; Peter James retires as Chair and director "following the release of the half year results in February" (ASX 7 Jan 2026); Adelle Howse (PhD mathematics) left — replaced by Vidgen.
 - **Committees (FY25):** Audit and Risk Management; People, Remuneration and Culture. No technology committee.
 
