@@ -2,7 +2,7 @@
 
 > **Disclaimer.** Written by AI, semi-supervised, from public data. It will contain errors. Every fact cites a public source — check it there. Report corrections as a GitHub issue; they will be pursued with vigour.
 
-*Generated 2026-10-01. Informational only: all figures are counts of recorded evidence. The scoring method is in Appendix A.*
+*Generated 2026-10-02. Informational only: all figures are counts of recorded evidence. The scoring method is in Appendix A.*
 
 ## 1. Coverage
 

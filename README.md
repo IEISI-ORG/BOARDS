@@ -102,4 +102,4 @@ which companies are complete, in progress or not yet started.
 CC BY 4.0 for the text and data; quoted third-party extracts remain with their owners. See
 [`LICENSE.md`](LICENSE.md).
 
-*Last exported: 2026-10-01.*
+*Last exported: 2026-10-02.*
