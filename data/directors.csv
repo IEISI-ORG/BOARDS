@@ -51,7 +51,13 @@ ASX,MAQ,Macquarie Technology Group,ASX300,David Buckingham,Y,2,V,MAQ AR2025; ASX
 ASX,MAQ,Macquarie Technology Group,ASX300,Kate Vidgen,Y,1,V,MAQ AR2025; ASX 2026
 ASX,MAQ,Macquarie Technology Group,ASX300,David Tudehope,N,2,V,MAQ AR2025; ASX 2026
 ASX,MAQ,Macquarie Technology Group,ASX300,Aidan Tudehope,N,4,V,MAQ AR2025; ASX 2026
+NZX/ASX,CNU,Chorus,NZ,Mark Cross,Y,1,V,CNU AR2026 (manual download)
+NZX/ASX,CNU,Chorus,NZ,Sue Bailey,Y,2,V,CNU AR2026 (manual download)
+NZX/ASX,CNU,Chorus,NZ,Neal Barclay,Y,2,V,CNU AR2026 (manual download)
+NZX/ASX,CNU,Chorus,NZ,Miriam Dean,Y,3,V,CNU AR2026 (manual download)
+NZX/ASX,CNU,Chorus,NZ,Will Irving,Y,2,V,CNU AR2026 (manual download)
 NZX/ASX,CNU,Chorus,NZ,Kate Jorgensen,Y,2,V,CNU NoM 2026
+NZX/ASX,CNU,Chorus,NZ,Jack Matthews,Y,3,V,CNU AR2026 (manual download)
 NZX/ASX,CNU,Chorus,NZ,Paul Reid,Y,1,V,CNU NoM 2026; ASX 28 Sep 2026
 ASX,SWP,Swoop Holdings,SmallCap,Anthony (Tony) Grist,N,2,V,SWP AR2026; SWP CGS FY26
 ASX,SWP,Swoop Holdings,SmallCap,Jonathan Pearce,N,1,V,SWP AR2026; SWP CGS FY26
@@ -67,3 +73,36 @@ ASX,5GG,Pentanet,SmallCap,Stephen Cornish,N,2,V,5GG AR FY26
 ASX,5GG,Pentanet,SmallCap,Timothy Cornish,N,2,V,5GG AR FY26; CGS FY26
 ASX,5GG,Pentanet,SmallCap,Dalton Gooding,Y,1,V,5GG AR FY26; CGS FY26
 ASX,5GG,Pentanet,SmallCap,Dominic O'Hanlon,Y,2,V,5GG AR FY26; CGS FY26
+NZX/ASX,IFT,Infratil,NZ,Alison Gerry,Y,1,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Brad Banducci,Y,1,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Jason Boyes,N,1,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Andrew Clark,Y,4,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Tiffany Fuller,Y,1,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Paul Gough,Y,1,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Kirsty Mactaggart,Y,1,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+NZX/ASX,IFT,Infratil,NZ,Anne Urlwin,Y,2,V,IFT AR2026 (manual download); infratil.com 18 Jun 2026
+ASX,CCG,Comms Group,SmallCap,Ryan O'Hare,Y,2,V,CCG AR2026 (manual download)
+ASX,CCG,Comms Group,SmallCap,Peter McGrath,N,4,V,CCG AR2026 (manual download)
+ASX,CCG,Comms Group,SmallCap,Benjamen Jennings,N,1,V,CCG AR2026 (manual download)
+ASX,CCG,Comms Group,SmallCap,Claire Bibby,Y,1,V,CCG AR2026 (manual download)
+ASX,CCG,Comms Group,SmallCap,Stephen Picton,Y,2,V,CCG AR2026 (manual download)
+ASX,5GN,5G Networks,SmallCap,Hugh Robertson Jnr,,1,V,5GN AR FY26 (manual download)
+ASX,5GN,5G Networks,SmallCap,Joseph Demase,N,2,V,5GN AR FY26 (manual download)
+ASX,5GN,5G Networks,SmallCap,Natalie Mactier,,2,V,5GN AR FY26 (manual download)
+ASX,5GN,5G Networks,SmallCap,Chris Scott,,1,V,5GN AR FY26 (manual download)
+ASX,CYB,AUCyber (formerly Sovereign Cloud Holdings),SmallCap,Joseph Demase,N,2,V,CYB AR FY26; CGS 2026 (manual download)
+ASX,CYB,AUCyber (formerly Sovereign Cloud Holdings),SmallCap,Hugh Robertson,N,1,V,CYB AR FY26; CGS 2026 (manual download)
+ASX,CYB,AUCyber (formerly Sovereign Cloud Holdings),SmallCap,Conrad Morgan,Y,1,V,CYB AR FY26; CGS 2026 (manual download)
+ASX,TUA,Tuas,SmallCap,David Teoh,N,2,V,TUA AR FY26; CGS (manual download)
+ASX,TUA,Tuas,SmallCap,Bob Teoh,N,1,V,TUA AR FY26; CGS (manual download)
+ASX,TUA,Tuas,SmallCap,Sarah Kenny,Y,1,V,TUA AR FY26; CGS (manual download)
+ASX,TUA,Tuas,SmallCap,Craig Levy,Y,4,V,TUA AR FY26; CGS (manual download)
+ASX,TUA,Tuas,SmallCap,Joanna Ong Joo Mien,Y,2,V,TUA AR FY26; CGS (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Justine Smyth,,1,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Jolie Hodson,N,2,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Warwick Bray,,2,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,David Havercroft,,2,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Lisa Nelson,,2,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Lindsay Wright,Y,1,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Vince Hawksworth,Y,1,V,SPK AR FY26; CGS FY26 (manual download)
+NZX/ASX,SPK,Spark New Zealand,NZ,Tarek Robbiati,Y,2,V,SPK AR FY26; CGS FY26 (manual download)

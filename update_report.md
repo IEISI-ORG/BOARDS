@@ -20,15 +20,15 @@ Inclusion check: each company holds Internet number resources (IP addresses / AS
 | ASX 300 | DigiCo Infrastructure REIT | DGT | iseek Communications Pty Ltd (APNIC org) | 5 | 5 | complete |
 | ASX small caps | Swoop Holdings | SWP | Swoop Telecommunications Pty Ltd (ORG-CC4-AP); Anycast Holdings / AS58511 | 4 | 4 | complete |
 | ASX small caps | Pentanet | 5GG | Pentanet Limited / AS10214 | 5 | 5 | complete |
-| ASX small caps | Comms Group | CCG | Comms Group Operations Pty Ltd (ORG-CGOP2-AP) | 0 | — | not started |
-| ASX small caps | Sovereign Cloud Holdings | SOV | Sovereign Cloud Australia Pty Ltd (ORG-SCAP1-AP) | 0 | — | not started |
-| ASX small caps | 5G Networks | 5GN | 5G Network Operations Pty Ltd / AS63956 | 0 | — | not started |
-| ASX small caps | Tuas | TUA | Simba Telecom Pte Ltd / AS4817 (Singapore) | 0 | — | not started |
-| New Zealand (NZX/ASX) | Chorus | CNU | Chorus New Zealand Limited / AS132898 | 2 | 8 | in progress |
-| New Zealand (NZX/ASX) | Spark New Zealand | SPK | Spark New Zealand Trading Limited / AS4648 | 0 | — | not started |
-| New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 0 | 8 | not started |
+| ASX small caps | Comms Group | CCG | Comms Group Operations Pty Ltd (ORG-CGOP2-AP) | 5 | 5 | complete |
+| ASX small caps | AUCyber (formerly Sovereign Cloud Holdings) | CYB | Sovereign Cloud Australia Pty Ltd (ORG-SCAP1-AP) | 3 | 3 | complete |
+| ASX small caps | 5G Networks | 5GN | 5G Network Operations Pty Ltd / AS63956 | 4 | 4 | complete |
+| ASX small caps | Tuas | TUA | Simba Telecom Pte Ltd / AS4817 (Singapore) | 5 | 5 | complete |
+| New Zealand (NZX/ASX) | Chorus | CNU | Chorus New Zealand Limited / AS132898 | 8 | 8 | complete |
+| New Zealand (NZX/ASX) | Spark New Zealand | SPK | Spark New Zealand Trading Limited / AS4648 | 8 | 8 | complete |
+| New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 8 | 8 | complete |
 
-Directors with a verified (grade V) score: **68**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
+Directors with a verified (grade V) score: **107**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
 
 ## 2. Level distribution by board
 
@@ -46,7 +46,13 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | DigiCo Infrastructure REIT | 5 | 0 | 0 | 0 | 0 | 0 | 5 | 0 |
 | Swoop Holdings | 4 | 0 | 0 | 1 | 0 | 1 | 2 | 0 |
 | Pentanet | 5 | 0 | 0 | 0 | 0 | 4 | 1 | 0 |
-| Chorus | 2 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
+| Comms Group | 5 | 0 | 0 | 1 | 0 | 2 | 2 | 0 |
+| AUCyber (formerly Sovereign Cloud Holdings) | 3 | 0 | 0 | 0 | 0 | 1 | 2 | 0 |
+| 5G Networks | 4 | 0 | 0 | 0 | 0 | 2 | 2 | 0 |
+| Tuas | 5 | 0 | 0 | 1 | 0 | 2 | 2 | 1 |
+| Chorus | 8 | 0 | 0 | 0 | 2 | 4 | 2 | 0 |
+| Spark New Zealand | 8 | 0 | 0 | 0 | 0 | 5 | 3 | 0 |
+| Infratil | 8 | 0 | 0 | 1 | 0 | 1 | 6 | 1 |
 | **ASX 300 total (scored boards)** | **57** | **0** | **4** | **13** | **2** | **18** | **20** | **11** |
 
 ## 3. Directors at Level 4 and above
@@ -59,6 +65,8 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Superloop | Tony Clark | Y | 5 | V | none stated in public sources | Co-founder Rising Sun Pictures (1995), Cinenet Systems and Cospective (S1); VFX Supervisor credits incl. *Sky Captain and the World of Tomorrow* (2004), *Harry Potter… |
 | Aussie Broadband | Jean-Baptiste Rousselot | Y | 4 | V | not stated in public sources checked (ABB ASX 3 Sep 2026; Notice of AGM 21 Sep 2026) | Telstra, NBN Co C-suite ("led large scale network rollouts and operational transformation"), Chorus CEO; NED BAI Communications; TCF NZ NED/Chair |
 | Aussie Broadband | Michael Omeros | N | 4 | V | BEng Electronics (1st Hons), BIT (with Distinction) | Senior management GBST, Zurich (UK); co-founded telco/cloud/IT businesses 2007–11; MD Over the Wire; Group Exec Wholesale & CEO Symbio |
+| Comms Group | Peter McGrath | N | 4 | V | B.Eng, MBA | 30+ yrs telecommunications/ICT; CEO of several Australian telcos; equity capital markets |
+| Infratil | Andrew Clark | Y | 4 | V | BEng, BSc, MBA | BCG (CEO ANZ, CEO Indonesia); Chief Transformation Officer NAB |
 | Macquarie Technology Group | Aidan Tudehope | N | 4 | V | BCom | MD Hosting Group (Cloud Services & Government, Data Centres), leads Secure Government Cloud and Cyber Security; former COO; "instrumental in the development of… |
 | Megaport | Michael Klayko | Y | 4 | V | B.S. electronic engineering technology (Ohio Institute of Technology) (Brocade DEF 14A, Tier 1) | CEO Brocade 2005–13; CEO Rhapsody Networks; EVP McDATA; SVP N. America Sales EMC; HP, IBM executive roles; Operating Executive, Marlin Equity |
 | Megaport | Michael Reid | N | 4 | V | Degree in Aerospace Engineering (QUT) | Cisco: ThousandEyes CRO, Worldwide Head of Sales for acquisitions, regional sales; 20+ yrs industry |
@@ -71,6 +79,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Telstra | Eelco Blok | Y | 4 | V | MS, BBA | KPN ~35 yrs, CEO 2011–18; started in Finance; "responsible for several businesses including Carrier Services, Corporate Networks and Network Operations"; KPN Board of… |
 | TPG Telecom | Iñaki Berroeta | N | 4 | V | MSc Telecommunications (Bilbao Superior School of Telecommunications Engineering), MBA (Henley) | 30 yrs telco; CEO VHA 2014–20, Vodafone Romania, Malta; "various operational roles at Vodafone Spain, Global Star USA, AirTouch International, Airtile Moviles" |
 | TPG Telecom | John Otty | N | 4 | V | Electronic Engineering (Cambridge), FCA | Vodafone Group Financial Controller; Group Technology Financial Director; CFO AMAP |
+| Tuas | Craig Levy | Y | 4 | V | BCom; Lucent internetworking certifications | TPG Telecom COO who oversaw TPG's network division; Operations Director Vox Telecom |
 
 ## 4. Changes from the original report's tiers
 
@@ -147,6 +156,30 @@ Status counts: corrected 4, verified 21.
 | E24 | MP1: Gidney appointed 29 May 2026; Hennessy resigned 31 Jul 2026; Dempsey status | verified | Gidney NED 29 May 2026 and ARC Chair (ASX 19 May 2026); Dempsey stepped down from Board 29 May 2026 to chair Firmus; Hennessy appointed 5 Dec 2025, resigned 31 Jul 2026; Snowden interim RemNom Chair (ASX 31 Jul 2026). |
 | E25 | MAQ: Brock Chair from Feb 2026 vs James retiring 31 Mar 2026 as Chair | corrected | ASX 7 Jan 2026: James retires as Chair and director and Brock becomes Chair "following the release of the half year results in February" (2026). James still quoted as Chairman on 16 Feb 2026. "31 March 2026" not supported; exact date not stated. |
 | E26 | Chorus: Reid joins 1 Oct 2026; ASM 4 Nov 2026; Matthews retiring | verified | Reid joins 1 Oct 2026, independent (ASX/NZX 28 Sep 2026); ASM Wed 4 Nov 2026, 10am NZT; Matthews resigns effective 28 Oct 2026 after nine years (ASX/NZX 24 Aug 2026). Reid is not Swoop's William (Paul) Reid. |
+
+## 7. Routing security and IPv6 (numbers only)
+
+Per company, from public data: APNIC RDAP (registered resources), RIPEstat (routed prefixes), the RPKI data set at rpki.cloudflare.com (ROAs and ASPA) and route-origin validation of those announcements. Each figure, its exact source URL, retrieval time and dataset version are in `data/routing/<TICKER>.md`, which also gives APNIC Labs ROV and IPv6 measurements per ASN. MANRS participation could not be collected (bot challenge).
+
+| Company | ASNs | IPv4 blocks registered | IPv6 blocks registered | IPv4 prefixes routed | IPv6 prefixes routed | ROAs in IPv4 space | ROAs in IPv6 space | RPKI valid / invalid / not-found (origin+prefix pairs) | ASNs with ASPA |
+|---|---|---|---|---|---|---|---|---|---|
+| Telstra | 14 | 95 | 3 | 775 | 9 | 152 | 186 | 613 / 0 / 171 | 3 |
+| TPG Telecom | 16 | 998 | 10 | 4652 | 415 | 364 | 0 | 586 / 0 / 4481 | 0 |
+| Aussie Broadband | 4 | 27 | 4 | 385 | 19 | 33 | 14 | 383 / 0 / 24 | 0 |
+| Superloop | 24 | 77 | 6 | 234 | 17 | 267 | 4 | 226 / 0 / 27 | 0 |
+| NextDC | 2 | 3 | 2 | 8 | 1 | 0 | 0 | 0 / 0 / 9 | 0 |
+| Megaport | 6 | 5 | 2 | 0 | 0 | 5 | 5 | 0 / 0 / 0 | 0 |
+| Macquarie Technology Group | 8 | 16 | 2 | 158 | 11 | 34 | 13 | 129 / 1 / 39 | 0 |
+| DigiCo Infrastructure REIT | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 / 0 / 0 | 0 |
+| Swoop Holdings | 12 | 38 | 11 | 134 | 8 | 90 | 7 | 110 / 1 / 31 | 0 |
+| Pentanet | 3 | 9 | 3 | 48 | 8 | 29 | 23 | 56 / 0 / 0 | 3 |
+| Comms Group | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 / 0 / 0 | 0 |
+| AUCyber (formerly Sovereign Cloud Holdings) | 1 | 4 | 1 | 6 | 2 | 8 | 2 | 8 / 0 / 0 | 0 |
+| 5G Networks | 18 | 52 | 16 | 141 | 19 | 87 | 29 | 139 / 1 / 21 | 0 |
+| Tuas | 1 | 4 | 1 | 24 | 15 | 27 | 11 | 35 / 0 / 4 | 0 |
+| Chorus | 2 | 1 | 1 | 5 | 1 | 2 | 3 | 7 / 0 / 0 | 2 |
+| Spark New Zealand | 16 | 74 | 4 | 653 | 91 | 13 | 1 | 23 / 0 / 721 | 0 |
+| Infratil | 22 | 46 | 7 | 93 | 6 | 177 | 13 | 85 / 0 / 14 | 0 |
 
 ## Appendix A. The level system
 
@@ -227,14 +260,20 @@ This dataset is published openly. Therefore:
 Each file below records the source URLs, retrieval date, evidence tier and the extracts relied on.
 
 - `data/src/5GG_AR2026.md` — Source: Pentanet FY26 Annual Report and FY26 Corporate Governance Statement
+- `data/src/5GN_AR2026.md` — Source: 5G Networks Limited FY26 Appendix 4E and Annual Report; Appendix 4G
 - `data/src/ABB_AR2026.md` — Source: Aussie Broadband FY26 Annual Report, FY26 CGS, 2026 board announcements, 2026 Notice of AGM
+- `data/src/CCG_AR2026.md` — Source: Comms Group Limited 2026 Annual Report
 - `data/src/CNU_2026.md` — Source: Chorus 2026 Notice of Annual Meeting and board announcements
+- `data/src/CYB_AR2026.md` — Source: AUCyber Limited (formerly Sovereign Cloud Holdings) FY26 Appendix 4E/Annual Report and Corporate Governance Statement 2026
 - `data/src/DGT_AR2026.md` — Source: DigiCo Infrastructure REIT 2026 Annual Report, FY26 CGS, S&P March 2026 rebalance
+- `data/src/IFT_AR2026.md` — Source: Infratil Annual Report 2026 and board announcement (18 Jun 2026)
 - `data/src/MAQ_AR2025.md` — Source: Macquarie Technology 2025 Annual Report and 2025–26 board announcements
 - `data/src/MP1_AR2026.md` — Source: Megaport FY26 Annual Report, FY26 CGS, board updates Dec 2025–Jul 2026, Equinix 2000 S-1
 - `data/src/NXT_AR2026.md` — Source: NextDC FY26 Annual Report and FY26 Corporate Governance Statement
 - `data/src/SLC_AR2025.md` — Source: Superloop 2025 Annual Report, 2025 CGS, board change June 2025
+- `data/src/SPK_AR2026.md` — Source: Spark New Zealand FY26 Annual Report and Annual Corporate Governance Statement
 - `data/src/SWP_AR2026.md` — Source: Swoop Holdings 2026 Annual Report, 2026 Corporate Governance Statement, AGM notice
 - `data/src/TLS_AR2026.md` — Source: Telstra Annual Report 2026 — Board of Directors (pp.34–37)
 - `data/src/TLS_CGS2026.md` — Source: Telstra 2026 Corporate Governance Statement
 - `data/src/TPG_AR2025.md` — Source: TPG Telecom 2025 Annual Report, FY25 Corporate Governance Statement, 2026 board announcements
+- `data/src/TUA_AR2026.md` — Source: Tuas Limited FY26 Appendix 4E/Annual Report and Corporate Governance Statement
