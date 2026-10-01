@@ -28,6 +28,10 @@ Numbers only. Each figure lists its source, the exact URL queried and the UTC re
 | AS56263 | AU | 2 | 0 | 0/0/2 | none | seen=1, filter_rate=50.0 (28-day); series date 2026-09-01 | seen=1.0, capable_pc=0.0, preferred_pc=0.0 (30-day); series date 2026-09-01 |
 | AS134138 | AU | 6 | 1 | 0/0/7 | none | seen=1, filter_rate=100.0 (28-day); series date 2026-03-13 | seen=2.0, capable_pc=50.0, preferred_pc=0.0 (30-day); series date 2026-07-30 |
 
+## Company-stated network services
+
+NEXTDC describes its interconnection services (AXON, data centre interconnects, intercapital Ethernet, peering ports, cloud on-ramps) at https://www.nextdc.com/interconnectivity (retrieved 2026-10-01). Summary: `data/src/NXT_WEB_interconnectivity.md`. The page states no ASN, prefix, RPKI or IPv6 figures.
+
 ## Source queries
 
 - AS56263: prefixes https://stat.ripe.net/data/announced-prefixes/data.json?resource=AS56263 (2026-10-01T01:35:02Z); ROV https://stats.labs.apnic.net/cgi-bin/rpki-json-table.pl?x=AU56263 (2026-10-01T01:35:04Z); IPv6 https://stats.labs.apnic.net/cgi-bin/json-table-v6.pl?x=AU56263 (2026-10-01T01:35:06Z)

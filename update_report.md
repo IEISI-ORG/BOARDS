@@ -270,6 +270,7 @@ Each file below records the source URLs, retrieval date, evidence tier and the e
 - `data/src/MAQ_AR2025.md` — Source: Macquarie Technology 2025 Annual Report and 2025–26 board announcements
 - `data/src/MP1_AR2026.md` — Source: Megaport FY26 Annual Report, FY26 CGS, board updates Dec 2025–Jul 2026, Equinix 2000 S-1
 - `data/src/NXT_AR2026.md` — Source: NextDC FY26 Annual Report and FY26 Corporate Governance Statement
+- `data/src/NXT_WEB_interconnectivity.md` — NXT: NEXTDC "Interconnectivity Solutions" web page
 - `data/src/SLC_AR2025.md` — Source: Superloop 2025 Annual Report, 2025 CGS, board change June 2025
 - `data/src/SPK_AR2026.md` — Source: Spark New Zealand FY26 Annual Report and Annual Corporate Governance Statement
 - `data/src/SWP_AR2026.md` — Source: Swoop Holdings 2026 Annual Report, 2026 Corporate Governance Statement, AGM notice
