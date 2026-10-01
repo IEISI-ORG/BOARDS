@@ -8,7 +8,7 @@ digital-infrastructure operators in Australia and New Zealand.
 - **Report:** [`update_report.md`](update_report.md) — coverage, level distribution by board, directors at
   Level 4 and above, company skills matrices, and verification of claims. The level system is explained
   in Appendix A of the report.
-- **Director table:** [`data/directors.csv`](data/directors.csv) — 107 directors with a verified level.
+- **Director table:** [`data/directors.csv`](data/directors.csv) — 113 directors with a verified level.
 - **Per-company checks:** [`data/cv/`](data/cv/) — each director's degrees, career evidence, level and grade.
 - **Company skills matrices:** [`data/skill_matrices/`](data/skill_matrices/).
 - **Sources:** [`data/src/`](data/src/) — for each source document: URL, date, evidence tier and the
@@ -34,8 +34,9 @@ logging in:
 
 Raw URLs follow the pattern `https://raw.githubusercontent.com/IEISI-ORG/BOARDS/main/<path>`.
 
-**Data dictionary (`directors.csv` / `directors.json`):** `exchange` (ASX, NZX/ASX); `ticker`; `company`;
-`cohort` (ASX300, SmallCap, NZ); `director`; `independent` (Y/N, per the company's own classification);
+**Data dictionary (`directors.csv` / `directors.json`):** `exchange` (ASX, NZX/ASX, unlisted); `ticker` (exchange code; for unlisted companies a short name,
+e.g. OPTUS); `company`;
+`cohort` (ASX300, SmallCap, NZ, Unlisted); `director`; `independent` (Y/N, per the company's own classification);
 `level` (1–6, see Appendix A of the report); `evidence_grade` (always V in published data); `sources`
 (short names of the documents relied on; full URLs in `data/src/`).
 

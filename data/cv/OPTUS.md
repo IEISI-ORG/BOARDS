@@ -1,0 +1,21 @@
+# Optus (Singtel Optus Pty Limited) (OPTUS), director CV check
+
+- **Cohort:** Unlisted (subsidiary of SGX-listed Singtel). Included under the strict board-information rule in `plan/scoring_frame.md`.
+- **S1:** Optus "Our Board" page, https://www.optus.com.au/about/corporate/executive-profiles (Tier 2, read 2026-10-01). **S2:** Optus submission to the Senate Environment and Communications Committee, Triple Zero outage inquiry (Nov 2025, 55 pp), https://www.optus.com.au/content/dam/optus/cloud/documents/about-us/media-centre/speeches-and-reports/2025/Senate_Environment_and_Communications_Committee_Triple_Zero_service_outage_Optus_Submission.pdf (Tier 1-equivalent: parliamentary submission). Summaries: `data/src/OPTUS_WEB_board.md`, `data/src/OPTUS_SENATE_2025.md`.
+- **Board membership check:** all 6 directors below are named in both S1 and S2.
+- **S3:** Optus media release, 23 Oct 2025, https://www.optus.com.au/about/media-centre/media-releases/2025/10/optus-announces-new-cfo-and-cio (Tier 2). Summary: `data/src/OPTUS_REL_2025-10-23.md`.
+- **Completeness:** S2 (Nov 2025) lists 7 directors; S1 (2026-10-01) lists 6. The difference is Michael Venter (CFO), whose retirement as CFO and Board director in 2026 is announced in S3 (he remained until March 2026). All current seats are accounted for.
+- **Checked:** 2026-10-01 · Frame: the level system (update_report.md, Appendix A)
+- **Committees (S2, Nov 2025):** Audit (Chair Parker); Risk (Chair Tan); Human Capital (Chair Arthur); Defence and Satellite (Chair Browning); Executive and Strategy (Chair Yuen). Post-outage: Response Oversight Committee; Expenditure Approval Committee.
+- **Skills matrix:** none published (no listing obligation).
+
+| Director | Role | Degrees / credentials | Level | Grade | Notes |
+|---|---|---|---|---|---|
+| John Arthur | Chairman; director of Singtel Optus Pty Limited since Oct 2023 | LLB (Hons), University of Sydney; lawyer, ex-Westpac COO, ex-Chairman Sydney Metro | 3 | V | L3(a): Chairman of Sydney Metro (Jul 2019 to Dec 2024), a critical-infrastructure board. Westpac COO role not documented as IT/network line accountability → not L4(b) (tie-break). Independence not stated by the company. |
+| Andrew Parker | Independent NED; Chair, Audit Committee; member, Defence and Satellite Committee | BEc (Macquarie); FCA; 37 yrs PwC, led PwC's Asian telecoms industry team 2002-2012 | 1 | V | Tie-break: telecoms exposure was as an adviser in a professional-services firm, not a career inside a telco/tech business → L1. Would be L2 under a reading that counts telco-sector advisory leadership. |
+| Michaela Browning | Independent NED; Chair, Defence and Satellite Committee (Senate submission Nov 2025) | BEc (Hons), Masters in Foreign Affairs and Trade (Monash) | 2 | V | L2: VP and Regional Head of Government and Public Policy APAC at Google (policy career inside a tech business). Google regional risk committee is not documented as cyber/network risk → not L3(a) (tie-break). |
+| Stephen Rue | CEO; Executive Director | Chartered Accountant; FAICD | 2 | V | CEO rule: telco CEO = L2. NBN Co CFO (incl. procurement, supply, data) then CEO 2018-2024; no network-operations line role documented. |
+| Nicky Tan | Independent NED; Chair, Risk Committee (Senate submission Nov 2025) | degree not stated; ex-partner Andersen and PwC (corporate finance, advisory) | 1 | V | Tie-break: telco exposure is through board roles only (Singtel director 9 yrs; chaired Singtel Audit and Finance, Investment and Risk Committees) → L1, as for board-only precedents (CNU Cross, Reid). Risk committee not documented as governing network/cyber risk. |
+| Yuen Kuan Moon | Non-executive director (Singtel Group CEO); Chair, Executive and Strategy Committee (Senate submission Nov 2025) | First-Class Honours degree in Engineering (UWA); MSc Management (Stanford) | 4 | V | L4(a): engineering degree followed by a commercial career (Singtel marketing, business development, sales; CEO Consumer Singapore; Group CEO since 2021). No hands-on engineering role documented → not L5. Independence: the company does not classify him as independent (Singtel Group CEO); recorded N. |
+
+**Board totals (6):** L4 1 (Yuen) · L3 1 (Arthur) · L2 2 (Browning, Rue) · L1 2 (Parker, Tan). Stated independent: Parker, Browning, Tan.

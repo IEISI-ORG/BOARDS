@@ -1175,5 +1175,71 @@
   "level": "2",
   "evidence_grade": "V",
   "sources": "SPK AR FY26; CGS FY26 (manual download)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "OPTUS",
+  "company": "Optus (Singtel Optus Pty Limited)",
+  "cohort": "Unlisted",
+  "director": "John Arthur",
+  "independent": "",
+  "level": "3",
+  "evidence_grade": "V",
+  "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "OPTUS",
+  "company": "Optus (Singtel Optus Pty Limited)",
+  "cohort": "Unlisted",
+  "director": "Andrew Parker",
+  "independent": "Y",
+  "level": "1",
+  "evidence_grade": "V",
+  "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "OPTUS",
+  "company": "Optus (Singtel Optus Pty Limited)",
+  "cohort": "Unlisted",
+  "director": "Michaela Browning",
+  "independent": "Y",
+  "level": "2",
+  "evidence_grade": "V",
+  "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "OPTUS",
+  "company": "Optus (Singtel Optus Pty Limited)",
+  "cohort": "Unlisted",
+  "director": "Stephen Rue",
+  "independent": "N",
+  "level": "2",
+  "evidence_grade": "V",
+  "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "OPTUS",
+  "company": "Optus (Singtel Optus Pty Limited)",
+  "cohort": "Unlisted",
+  "director": "Nicky Tan",
+  "independent": "Y",
+  "level": "1",
+  "evidence_grade": "V",
+  "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "OPTUS",
+  "company": "Optus (Singtel Optus Pty Limited)",
+  "cohort": "Unlisted",
+  "director": "Yuen Kuan Moon",
+  "independent": "N",
+  "level": "4",
+  "evidence_grade": "V",
+  "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
  }
 ]

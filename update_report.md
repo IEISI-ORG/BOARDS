@@ -27,8 +27,9 @@ Inclusion check: each company holds Internet number resources (IP addresses / AS
 | New Zealand (NZX/ASX) | Chorus | CNU | Chorus New Zealand Limited / AS132898 | 8 | 8 | complete |
 | New Zealand (NZX/ASX) | Spark New Zealand | SPK | Spark New Zealand Trading Limited / AS4648 | 8 | 8 | complete |
 | New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 8 | 8 | complete |
+| Unlisted | Optus (Singtel Optus Pty Limited) | OPTUS | SingTel Optus Pty Ltd (ORG-SOPL2-AP, 49 ASNs); Optus Internet Pty Ltd (ORG-OIPL5-AP, AS9623); Optus Customer Network (ORG-OCN1-AP, 11 ASNs) | 6 | 6 | complete |
 
-Directors with a verified (grade V) score: **107**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
+Directors with a verified (grade V) score: **113**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
 
 ## 2. Level distribution by board
 
@@ -53,6 +54,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Chorus | 8 | 0 | 0 | 0 | 2 | 4 | 2 | 0 |
 | Spark New Zealand | 8 | 0 | 0 | 0 | 0 | 5 | 3 | 0 |
 | Infratil | 8 | 0 | 0 | 1 | 0 | 1 | 6 | 1 |
+| Optus (Singtel Optus Pty Limited) | 6 | 0 | 0 | 1 | 1 | 2 | 2 | 0 |
 | **ASX 300 total (scored boards)** | **57** | **0** | **4** | **13** | **2** | **18** | **20** | **11** |
 
 ## 3. Directors at Level 4 and above
@@ -73,6 +75,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | NextDC | Douglas Flynn | Y | 4 | V | Bachelor of Chemical Engineering (Newcastle NSW); MBA (Melbourne, distinction) | CEO Davies Brothers; MD News International 1995–98; CEO Aegis Group 1999–; CEO Rentokil Initial 2005–08; Chair IMEXHS |
 | NextDC | Dr Eileen Doyle | Y | 4 | V | PhD Applied Statistics (Newcastle); Fulbright Scholar (Business Management, Columbia); FTSE; FAICD | Chair PWCS (coal loader) 1998–2009; Deputy Chair CSIRO to 2016; boards AirServices Australia, Newcastle Port, Austrade; NED Oil Search, GPT, Boral, Santos |
 | NextDC | Stephen Smith | Y | 4 | V | BS Engineering (U.S. Military Academy, West Point) | CEO & President Equinix 2007–18; CEO Zayo Group (current); HP SVP Worldwide Services 2005–06; Lucent VP 2004–05; EDS 1987–2004 (Chief Sales Officer, President APAC); US… |
+| Optus (Singtel Optus Pty Limited) | Yuen Kuan Moon | N | 4 | V |  |  |
 | Superloop | Drew Kelton | Y | 4 | V | BSc Electrical and Electronic Engineering (commendation), University of Western Scotland; "Chartered… | 40+ yrs ICT/telco, "senior operational roles" UK, Europe, India, Australasia, US; other current listed directorship: Locate Technologies (from 30 Jul 2021) |
 | Superloop | Paul Tyler | N | 4 | V | Bachelor of Electrical Engineering (UNSW); Executive MBA (UCD); FAICD | Nokia executive roles incl. President of Nokia Asia Pacific (Singapore); Telstra GMD International and Business 2016–18; NBN Co Chief Customer Officer Business 2018–20 |
 | Swoop Holdings | William (Paul) Reid | N | 4 | V | MSc (IT) (Stirling), BA (Hons) (Kingston) | Joined Swoop 2008; "managed network deployment for Swoop across Australia"; 15 yrs management consultant (A.T. Kearney, Andersen) |
@@ -127,7 +130,7 @@ Directors outside the mapped range or previously unclassified: **19**.
 
 Factual statements from an earlier (unpublished) version of this analysis, checked against public sources. Only resolved items are listed.
 
-Status counts: corrected 4, verified 21.
+Status counts: corrected 4, unsupported 1, verified 21.
 
 | ID | Claim | Status | Finding |
 |---|---|---|---|
@@ -143,6 +146,7 @@ Status counts: corrected 4, verified 21.
 | E10 | SOCI CIRMP annual report: 90 days, board approval (quoted) | verified | Both quotes verbatim on CISC form page https://www.cisc.gov.au/resources/online-forms/responsible-entity-risk-management-program-annual-report |
 | E11 | Telstra Corporation Act: at least two directors with regional/rural/remote knowledge | verified (company source; Act text not yet read) | TLS CGS 2026 p.5 fn1: "at least 2 directors have knowledge of, or experience in, the communication needs of regional, rural or remote areas". Act text itself not yet checked. |
 | E12 | Optus CTO Tony Baird leaving; Sri Amirthalingam replacing (8 Jan 2026) | verified | Baird to leave; Amirthalingam (36 yrs at Telstra) to join in January — West Australian/Albany Advertiser, 8 Jan 2026 https://www.albanyadvertiser.com.au/business/optus-poaches-senior-telstra-executive-for-top-technology-chief-role-c-21246052 |
+| E13 | John Arthur quote on "two relevant Board Committees" | unsupported (final, 2026-10-01 retry) | Quote not found in: Optus release 18 Dec 2025 (https://www.optus.com.au/about/media-centre/media-releases/2025/12/dr-schotts-independent-review, read 2026-10-01; Arthur quoted, no committee wording); Optus Senate submission (Nov 2025, 55 pp; committees… |
 | E14 | Telstra FY26 CGS: "Technology and digital" "well represented"; "moderated self-assessment"; category broadened | verified, **needs nuance** | All three quotes confirmed (CGS pp.5–6). But "well represented" is said of *every* category, and the pie shows only ~1 of 8 NEDs at "high competency" in Technology and digital. The report should add this. See `data/skill_matrices/TLS_FY26.md`. |
 | E15 | Telstra FY26 board education covered network engineering, satellite, cyber | verified | CGS p.6: "Network engineering and technology, including satellite technology"; "Cyber security"; also AI, customer trends, geopolitics; field technician ride-ons; Aura Network site visit. |
 | E16 | Megaport FY25 CGS matrix: 7/7 NaaS/SaaS; 3 highly + 4 moderately in product development | verified (FY26) | FY26 CGS (20 Aug 2026, current board): NaaS/SaaS 5 highly + 2 moderately (7/7); Product Development 3 + 4. Cite FY26. |
@@ -226,6 +230,19 @@ This dataset is published openly. Therefore:
 3. **Only verified scores are published.** A level appears in public output only at grade V. Grades P and U are listed as "verification pending", without a level.
 4. **Ambiguity is resolved by the tie-break rule, not by a provisional grade.** If Tier 1 evidence supports a lower level unambiguously and a higher level only on interpretation, score the lower level at grade V and record what evidence would raise it.
 
+### Unlisted cohort (user, 2026-10-01)
+
+- An unlisted company is included only if (a) it passes the same operator and APNIC tests as listed companies, and (b) it **publishes** its board information (official board page, regulator submission, annual report) in a source that is **open to AI agents**: readable without login, not blocked by `robots.txt`, and no terms clause against automated access (checked and recorded in `data/ACCESS_POLICY.md`).
+- No published board information, or a source closed to agents → the company is not processed.
+- **Strict board-information rule (user, 2026-10-01: "must be very strict" for non-reporting entities):**
+  1. A seat is included only if the company's current board page names the director **and** an earlier dated public document from the company (regulator or parliamentary submission, media release, annual report) also names them.
+  2. Degrees and career facts come only from the company's own published bio or a parliamentary or regulator filing. Press, LinkedIn and third-party directories are never the sole source.
+  3. Independence is recorded only where the company states it; otherwise left blank.
+  4. Tie-break down without exception; no P grades are carried for this cohort.
+  0. **Complete and useful, or not at all** (user, 2026-10-01): every current seat must be accounted for and each director must have enough published detail to score at grade V. If not, the company is neither used nor stored: no rows, no CV file, no source summaries.
+  5. Conflicting sources (e.g. a director on one list but not the other) → the seat is excluded until a dated source resolves it; the conflict is recorded with its sources.
+- Unlisted companies have no ASX/NZX governance statement or skills matrix; record "none published" rather than inferring one. Tier 2 (official company bios) is the normal top evidence tier for this cohort.
+
 ### Evidence grades
 
 | Grade | Meaning |
@@ -271,6 +288,9 @@ Each file below records the source URLs, retrieval date, evidence tier and the e
 - `data/src/MP1_AR2026.md` — Source: Megaport FY26 Annual Report, FY26 CGS, board updates Dec 2025–Jul 2026, Equinix 2000 S-1
 - `data/src/NXT_AR2026.md` — Source: NextDC FY26 Annual Report and FY26 Corporate Governance Statement
 - `data/src/NXT_WEB_interconnectivity.md` — NXT: NEXTDC "Interconnectivity Solutions" web page
+- `data/src/OPTUS_REL_2025-10-23.md` — OPTUS: Optus media release, 23 Oct 2025 (CFO and CIO transitions)
+- `data/src/OPTUS_SENATE_2025.md` — OPTUS: Optus submission, Senate Environment and Communications Committee (Triple Zero outage)
+- `data/src/OPTUS_WEB_board.md` — OPTUS: Optus "Our Board and Executive Team" page
 - `data/src/SLC_AR2025.md` — Source: Superloop 2025 Annual Report, 2025 CGS, board change June 2025
 - `data/src/SPK_AR2026.md` — Source: Spark New Zealand FY26 Annual Report and Annual Corporate Governance Statement
 - `data/src/SWP_AR2026.md` — Source: Swoop Holdings 2026 Annual Report, 2026 Corporate Governance Statement, AGM notice
