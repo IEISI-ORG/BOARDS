@@ -1241,5 +1241,82 @@
   "level": "4",
   "evidence_grade": "V",
   "sources": "Optus board page (2026-10-01); Optus Senate submission (Nov 2025)"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Mark Cross",
+  "independent": "Y",
+  "level": "1",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Ani Satchcroft",
+  "independent": "",
+  "level": "1",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Patrick Flanigan AM",
+  "independent": "",
+  "level": "2",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Russell Stanners",
+  "independent": "",
+  "level": "2",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Chris Ridd",
+  "independent": "",
+  "level": "2",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Norman Chan",
+  "independent": "",
+  "level": "4",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
+ },
+ {
+  "exchange": "unlisted",
+  "ticker": "VOCUS",
+  "company": "Vocus Group",
+  "cohort": "Unlisted",
+  "director": "Sylvia Wiggins",
+  "independent": "",
+  "level": "1",
+  "evidence_grade": "V",
+  "sources": "Vocus website board page and director profiles (2026-10-01); rider: website only"
  }
 ]

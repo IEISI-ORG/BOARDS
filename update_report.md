@@ -28,8 +28,11 @@ Inclusion check: each company holds Internet number resources (IP addresses / AS
 | New Zealand (NZX/ASX) | Spark New Zealand | SPK | Spark New Zealand Trading Limited / AS4648 | 8 | 8 | complete |
 | New Zealand (NZX/ASX) | Infratil | IFT | One New Zealand Group Limited (ORG-VNZL1-AP) | 8 | 8 | complete |
 | Unlisted | Optus (Singtel Optus Pty Limited) | OPTUS | SingTel Optus Pty Ltd (ORG-SOPL2-AP, 49 ASNs); Optus Internet Pty Ltd (ORG-OIPL5-AP, AS9623); Optus Customer Network (ORG-OCN1-AP, 11 ASNs) | 6 | 6 | complete |
+| Unlisted | Vocus Group | VOCUS | VOCUS PTY LTD (ORG-VPL1-AP, 52 ASNs) / AS4826 VOCUS-BACKBONE-AS | 7 | 7 | complete (rider †) |
 
-Directors with a verified (grade V) score: **113**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
+† **Vocus Group:** Not listed. Board composition and director details rely solely on the Vocus website as read on 2026-10-01; no dated company filing lists the full board.
+
+Directors with a verified (grade V) score: **120**. Directors pending verification: **0**. Only verified scores appear in this report; every fact is taken from a source accessible without login (Appendix A, Publication rule).
 
 ## 2. Level distribution by board
 
@@ -55,6 +58,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | Spark New Zealand | 8 | 0 | 0 | 0 | 0 | 5 | 3 | 0 |
 | Infratil | 8 | 0 | 0 | 1 | 0 | 1 | 6 | 1 |
 | Optus (Singtel Optus Pty Limited) | 6 | 0 | 0 | 1 | 1 | 2 | 2 | 0 |
+| Vocus Group | 7 | 0 | 0 | 1 | 0 | 3 | 3 | 0 |
 | **ASX 300 total (scored boards)** | **57** | **0** | **4** | **13** | **2** | **18** | **20** | **11** |
 
 ## 3. Directors at Level 4 and above
@@ -83,6 +87,7 @@ Levels run from 1 (no technical exposure) to 6 (current hands-on engineering wit
 | TPG Telecom | Iñaki Berroeta | N | 4 | V | MSc Telecommunications (Bilbao Superior School of Telecommunications Engineering), MBA (Henley) | 30 yrs telco; CEO VHA 2014–20, Vodafone Romania, Malta; "various operational roles at Vodafone Spain, Global Star USA, AirTouch International, Airtile Moviles" |
 | TPG Telecom | John Otty | N | 4 | V | Electronic Engineering (Cambridge), FCA | Vodafone Group Financial Controller; Group Technology Financial Director; CFO AMAP |
 | Tuas | Craig Levy | Y | 4 | V | BCom; Lucent internetworking certifications | TPG Telecom COO who oversaw TPG's network division; Operations Director Vox Telecom |
+| Vocus Group | Norman Chan | — | 4 | V |  |  |
 
 ## 4. Changes from the original report's tiers
 
@@ -240,6 +245,7 @@ This dataset is published openly. Therefore:
   3. Independence is recorded only where the company states it; otherwise left blank.
   4. Tie-break down without exception; no P grades are carried for this cohort.
   0. **Complete and useful, or not at all** (user, 2026-10-01): every current seat must be accounted for and each director must have enough published detail to score at grade V. If not, the company is neither used nor stored: no rows, no CV file, no source summaries.
+  0a. **Website-only rider** (user, 2026-10-01): if the company's own current website is complete and scoreable but no earlier dated company document lists the full board (rule 1), the company may be included **with a rider**: a public note that the company is not listed and the board data relies solely on its website as at the read date. Rules 2–5 still apply.
   5. Conflicting sources (e.g. a director on one list but not the other) → the seat is excluded until a dated source resolves it; the conflict is recorded with its sources.
 - Unlisted companies have no ASX/NZX governance statement or skills matrix; record "none published" rather than inferring one. Tier 2 (official company bios) is the normal top evidence tier for this cohort.
 
@@ -298,3 +304,4 @@ Each file below records the source URLs, retrieval date, evidence tier and the e
 - `data/src/TLS_CGS2026.md` — Source: Telstra 2026 Corporate Governance Statement
 - `data/src/TPG_AR2025.md` — Source: TPG Telecom 2025 Annual Report, FY25 Corporate Governance Statement, 2026 board announcements
 - `data/src/TUA_AR2026.md` — Source: Tuas Limited FY26 Appendix 4E/Annual Report and Corporate Governance Statement
+- `data/src/VOCUS_WEB_board.md` — VOCUS: Vocus website, board page and director profiles
